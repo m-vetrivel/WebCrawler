@@ -4,7 +4,6 @@ Welcome! This isn't just a script; it's a dynamic, full-stack application design
 
 I built this project to demonstrate a practical understanding of concurrent programming, API design, and modern front-end development.
 
-![Web Crawler UI Screenshot](https://i.imgur.com/gO0X7jP.png)
 
 ---
 
